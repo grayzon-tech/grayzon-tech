@@ -1,7 +1,8 @@
+<p align="center">
+  <img src="./logo.png" alt="Grayzon Logo" width="80" height="80"/>
+</p>
 
-
-<h1 align="center"><img src="./logo.png" alt="Grayzon Logo" width="80" />
- Grayzon Tech</h1>
+<h1 align="center">Grayzon Tech</h1>
 <h3 align="center">Focused on building practical, purposeful software</h3>
 
 ---
